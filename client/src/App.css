@@ -24,6 +24,10 @@
   color: white;
 }
 
+.App-title {
+  font-size: 1.5em;
+}
+
 .App-link {
   color: #61dafb;
 }
